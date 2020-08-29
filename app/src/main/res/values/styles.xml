@@ -8,4 +8,19 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="LigthTheme" parent="AppTheme">
+        <item name="textColor1">#000000</item>
+        <item name="textColor2">#3e44ad</item>
+        <item name="backgraundColor">#ffffff</item>
+    </style>
+
+    <style name="DarkTheme" parent="AppTheme">
+        <item name="textColor1">#ffffff</item>
+        <item name="textColor2">#8fb0f7</item>
+        <item name="backgraundColor">#000000</item>
+    </style>
+
+    <style name="DartTheme" parent="AppTheme">
+
+    </style>
 </resources>
